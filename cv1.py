@@ -1,4 +1,5 @@
 import streamlit as st
+
 with st.sidebar:
     st.title("👩🏽‍💼 FAYE")
     st.title("👤 Ndoumbé Faye")
@@ -41,5 +42,6 @@ st.write("🔎 sens de l'observation et attention aux détails")
 st.write("⏳ Autonomie dans le travail et la gestion du temps")
 
 st.write("📋 respect des consignes au sein du structure")
+
 
 
