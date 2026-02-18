@@ -1,6 +1,7 @@
 import streamlit as st
-
+st.title("Mon proforiot")
 with st.sidebar:
+    st.image("photondoumbe.jpeg")
     st.title("👩🏽‍💼 FAYE")
     st.title("👤 Ndoumbé Faye")
     st.write("📍 Adresse:Dakar,Hann bel air,Sénégal")
@@ -12,11 +13,11 @@ with st.sidebar:
 
 # Contenu principal
 
-st.header("👤 Profil")
+st.header("👤 Technicienne superieur en geomatique")
 
 st.write("✨ Attentive,motivée,sérieuse,travailleuse:je suis à la recherche de stage afin de mettre en pratique mes compétences théoriques et de renforcer mes autres compétences.Correcte,rigoureuse et dynamique:je suis dotée de bonnes capacités d'analyse, d'un bon esprit d'apprentissage et de collaboration,Ainsi d'une excellente capacité d'integration.Mon but est de contribuer au développement de votre structure tout en recevant une expérience professionnelle")
 
-st.header("🗺 competences en géomatique")
+st.header("🗺 competences et expertises en géomatique")
 
 st.write("🛰 principes fondamentaux des Systémes d'Information Géographique")
 st.write("📊 collecte,structuration et actualisation des données géographiques")
@@ -40,4 +41,5 @@ st.write("⚖ respect de l'éthique et du travail collaboratif")
 st.write("🗣 capacité de communication orale et écrite")
 st.write("🔎 sens de l'observation et attention aux détails")
 st.write("⏳ Autonomie dans le travail et la gestion du temps")
+
 st.write("📋 respect des consignes au sein du structure")
