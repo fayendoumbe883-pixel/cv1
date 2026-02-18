@@ -1,5 +1,4 @@
 import streamlit as st
-st.title("Mon proforiot")
 with st.sidebar:
     st.image("photondoumbe.jpeg")
     st.title("👩🏽‍💼 FAYE")
@@ -43,3 +42,4 @@ st.write("🔎 sens de l'observation et attention aux détails")
 st.write("⏳ Autonomie dans le travail et la gestion du temps")
 
 st.write("📋 respect des consignes au sein du structure")
+
